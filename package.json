@@ -43,7 +43,7 @@
     "flickity": "2.0.10",
     "formdata-polyfill": "2.0.4",
     "jsonwebtoken": "^7.4.1",
-    "knex": "^0.13.0",
+    "knex": "^0.19.5",
     "linqjs": "^1.0.1",
     "loader": "^2.1.1",
     "lodash": "^4.17.11",
